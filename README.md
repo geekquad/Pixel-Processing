@@ -114,23 +114,30 @@ You have made your contributions. Kudos to you!!
 
 <hr> </hr>
 
+### 📂 Where to upload the files
+
+* Your files should be uploaded directly into the corresponding folder (For instance, if you wrote code for Object Tracking Implementation in Python, it goes inside the ObjectTracking folder along with a descriptive README.md )
+* **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
+
+#### For any more issues and queries, please join our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-jtdqxt2r-i9R7vvNPzveImCBBM~eahw"> Slack Channel. </a>
+Feel free to reach out to us. Rememeber, collaboration is the key to open-source. 
+
+#### Please see the <a href="https://github.com/geekquad/AlgoBook/blob/master/CONTRIBUTING.md"> **Contributing Guidelines** </a>.
+
+<hr> </hr>
 
 
+## 📖 Code Of Conduct
 
+You can find our Code of Conduct [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/master/CODE_OF_CONDUCT.md).
 
+## 📝 License  
 
-
-
-
-
-
-
-
-
+This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Please STAR :star2: this repository if you liked it and had fun :)
 
-### Maintainers! :blush:
+### 😇 Maintainers!
 
 <table>
   <tbody><tr>
@@ -138,7 +145,6 @@ You have made your contributions. Kudos to you!!
     <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img alt="" src="https://avatars.githubusercontent.com/kritikaparmar-programmer" width="100px;"><br><sub><b>Kritika Parmar</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=kritikaparmar-programmer" title="Code">💻 🖋</a></td></a></td>
   </tr>
 </tbody></table>
-
 
 
 
