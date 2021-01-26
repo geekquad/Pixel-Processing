@@ -53,7 +53,7 @@ We’ll use the git clone command along with the URL that points to your fork of
 git clone https://github.com/your_username/Image-Processing-OpenCV
 ```
 
-<img src="https://github.com/geekquad/AlgoBook/blob/master/project/Readme_Images/clone_cmd.JPG">
+<img src="assets\clone.PNG">
 
 
 
@@ -103,11 +103,11 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
 At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
-<img src="https://github.com/geekquad/AlgoBook/blob/master/project/Readme_Images/pr.JPG">
+<img src="assets\PR.PNG">
 
 GitHub will alert you that you are able to merge the two branches because there is no competing code. You should add in a **title**, a **comment**, and then press the **“Create pull request”** button.
 
-<img src="https://github.com/geekquad/AlgoBook/blob/master/project/Readme_Images/create%20pr.JPG">
+<img src="assets\create pr.PNG">
 
 ### Step 6: CONGRATULATIONS :boom: :clap: :relaxed:
 You have made your contributions. Kudos to you!!
