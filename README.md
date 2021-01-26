@@ -1,6 +1,6 @@
 # Image Processing OpenCV
 
-<a href="https://ibb.co/KXPSdbp"><img src="https://i.ibb.co/qdSVK73/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/KXPSdbp"><img src="https://i.ibb.co/qdSVK73/image.png" alt="image" width="1080"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
