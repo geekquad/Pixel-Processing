@@ -2,7 +2,13 @@
 
 ## Before contributing
 
-Welcome to [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/AlgoBook). Before sending your pull requests, make sure that you **read the whole guidelines**. 
+Welcome to [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/AlgoBook). Before sending your pull requests, make sure that you **read the whole guidelines**.
+
+
+* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* You can only work on issues that you have been assigned to you.
+* If you want to contribute for an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
+* If you have modified/added code work, make sure the code compiles before submitting.
 
 ### Contribution
 
