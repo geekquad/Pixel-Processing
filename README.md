@@ -33,7 +33,7 @@ OpenCV is a huge library. One can get lost while reading a specific feature docu
 
 ## <u> How to Contribute? Let's Get Started: </u>
 
-#### Step 1. Create a Copy of this Repository
+#### <ins> Step 1. Create a Copy of this Repository </ins>
 In order to work on an open-source project, you will first need to make your own copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
 
 > **Fork :fork_and_knife: this repo. Click on the Fork button at the top right corner.**
@@ -57,7 +57,7 @@ git clone https://github.com/your_username/Image-Processing-OpenCV
 
 
 
-#### Step 2: Creating a New Branch
+#### <ins> Step 2: Creating a New Branch </ins>
 It is important to branch the repository so that you are able to manage the workflow, isolate your code, and control what features make it back to the main branch of the project repository.
 
 When creating a branch, it is very important that you create your new branch off of the master branch. 
@@ -75,10 +75,10 @@ Switched to branch 'new-branch'
 ```
 
 
-#### Step 3: Contribute:
+#### <ins> Step 3: Contribute: </ins>
 Make relevant changes. Add new algorithms. Add Readme files. Contribute in any way you feel like :)
 
-#### Step 4: Commiting and Pushing:
+#### <ins> Step 4: Commiting and Pushing: </ins>
 Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
 ``` git add filename``` or ``` git add .``` 
@@ -99,7 +99,7 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
  git push --set-upstream origin new-branch
  ```
  
-#### Step 5: Create Pull Request
+#### <ins> Step 5: Create Pull Request </ins>
 At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
@@ -109,7 +109,7 @@ GitHub will alert you that you are able to merge the two branches because there 
 
 <img src="assets\create pr.PNG">
 
-#### Step 6: CONGRATULATIONS :boom: :clap: :relaxed:
+#### <ins> Step 6: CONGRATULATIONS :boom: :clap: :relaxed: </ins>
 You have made your contributions. Kudos to you!!
 
 <hr> </hr>
