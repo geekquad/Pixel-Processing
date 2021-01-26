@@ -120,9 +120,9 @@ You have made your contributions. Kudos to you!!
 * **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
 
 #### For any more issues and queries, please join our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-jtdqxt2r-i9R7vvNPzveImCBBM~eahw"> Slack Channel. </a>
-Feel free to reach out to us. Rememeber, collaboration is the key to open-source. 
+Feel free to reach out to us. 
 
-#### Please see the <a href="https://github.com/geekquad/AlgoBook/blob/master/CONTRIBUTING.md"> **Contributing Guidelines** </a>.
+``` Rememeber, collaboration is the key to open-source 🌟✨ ```
 
 <hr> </hr>
 
