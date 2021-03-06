@@ -3,7 +3,7 @@
 <h3>
 The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground! As everyone is a fan of <i>Harry Potter World and Hogwartz</i>. So today, I am going to show you the magic of <u>Invisibility Cloak</u> of Harry with Computer Vision.
 </h3>
-<div class="tenor-gif-embed" data-postid="15183542" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/my-bodys-gone-invisible-invisibility-cloak-hidden-gif-15183542">My Bodys Gone Invisible GIF</a> from <a href="https://tenor.com/search/mybodysgone-gifs">Mybodysgone GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="invisible.gif">
 
 <br>
 
