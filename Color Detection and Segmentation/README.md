@@ -1,11 +1,8 @@
 # How does this algorithm work ?
 
 <h3>
-The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground! 
-<br>
-As everyone is a fan of <i>Harry Potter World and Hogwartz</i>. So today, I am going to show you the magic of <u>Invisibility Cloak</u> of Harry with Computer Vision.
+The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground! As everyone is a fan of <i>Harry Potter World and Hogwartz</i>. So today, I am going to show you the magic of <u>Invisibility Cloak</u> of Harry with Computer Vision.
 </h3>
-<br>
 <br>
 <i>The project comprises of 5 simple steps:</i>
 <ol>
