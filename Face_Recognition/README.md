@@ -22,4 +22,4 @@ This script helps you to recognize faces by a pre-trained ML model.
        python recog.py
        
 # Screenshot 
-![](./datasets/capture.png)
+![](./datasets/capture.PNG)
