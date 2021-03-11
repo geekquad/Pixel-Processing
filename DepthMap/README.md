@@ -7,11 +7,11 @@ A minimal implementation of creating Depth Map or Disparity Map.
 
 Because of the difference in the images our eyes receive, being at a distance from each other, we get a depth intuition and can tell how far away objects are. This is called stereo vision. We will call the two images that make up a single view, **a stereo pair**. Here the stereo pair chosen is as follows:
 
-![right](assets\right.jpg)   ![left](assets\left.jpg)
+![right](assets/right.jpg)   ![left](assets/left.jpg)
 
 And the disparity or depth-map produced is as follows:
 
-![ss](assets\screenshot.png)
+![ss](assets/screenshot.png)
 
 Better results can be achieved by tuning the parameters numDisparities and blockSize.
 
