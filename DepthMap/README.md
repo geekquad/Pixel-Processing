@@ -11,7 +11,7 @@ Because of the difference in the images our eyes receive, being at a distance fr
 
 And the disparity or depth-map produced is as follows:
 
-![ss](assets/screenshot.png)
+![ss](assets/screenshot.PNG)
 
 Better results can be achieved by tuning the parameters numDisparities and blockSize.
 
