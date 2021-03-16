@@ -15,7 +15,7 @@ def Harris_Corner_Detector(path):
 
 if __name__=="__main__":
     img_path = 'image.jpg'
-    Harris_Corner_Detector(img_path)
-    cv2.imshow('Corners',pic)
+    pic = Harris_Corner_Detector(img_path)
+    cv2.imshow('Cor',pic)
     if cv2.waitKey(0) & 0xff == 27:
         cv2.destroyAllWindows()
