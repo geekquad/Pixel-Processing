@@ -12,4 +12,6 @@ A simple thresholding is selecting a pixel value x, and then selecting all pixel
 ### Adaptive Thresholding
 AS in simple thresholding we have to manually supply our threshold value T, which require a lot of manual experiments and parameter tunings. Just one value of T might not be enough. Adaptive threshold considers a small neighbors of pixels and then finds an optimal threshold value T for each neighbor. This can help in cases where there may be ranges of pixel intensities and the optimal value T may change for different parts of the image.
 
+### Output:
+
 <img src="Thresholding.png?raw=true" alt="Thresholding example" style="max-width: 500px;">
