@@ -13,8 +13,13 @@ Implementation of the following Edge Detection methods:
     <link rel="stylesheet" href="main.css">
 </head>
 
-<h1>library used</h1>
-<p title=library used->
+
+<body>
+  <h2>Canny Edge Detection </h2>
+<p title=Canny Edge Detection >
+    
+<h1>Library used</h1>
+<p title=Library used->
 <ul>
 <li>numpy </li>
 <li>opencv</li>
@@ -22,9 +27,6 @@ Implementation of the following Edge Detection methods:
 </ul>
 </p>
 
-<body>
-  <h1></h1>
-<p title= >
 <ul>
 <li></li>
 <li></li>
