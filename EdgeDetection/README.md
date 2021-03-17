@@ -14,7 +14,7 @@
 Implementation of the following Edge Detection methods:
 * Canny Edge Detection
 * Robert Edge Detection
-* * Sobel Edge Detection
+* Sobel Edge Detection
 * Prewitt Edge Detection
 <br>
     Prewitt operator is used for Prewitt edge detection in an image. It detects two types of edges: Horizontal and 
