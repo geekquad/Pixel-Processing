@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 # Detects faces using OpenCV.
 Face Recognisation
 Recognizes the face and how much a face is similar to a test image using SVM Classifier. 
