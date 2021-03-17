@@ -17,7 +17,7 @@ Implementation of the following Edge Detection methods:
 <body>
   <h2>Canny Edge Detection </h2>
 <p title=Canny Edge Detection >
-    
+  <img src="Figure1.jpeg"> <br>    
 <h1>Library used</h1>
 <p title=Library used->
 <ul>
