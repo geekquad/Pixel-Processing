@@ -19,6 +19,16 @@ Recognizes the face and how much a face is similar to a test image using SVM Cla
 </ul>
 </p>
 
+<h1>Follow these steps </h1>
+<p title=Follow these steps>
+<ul>
+  <li>Open pycharm and add libraries given below in sequential manner by File>Settings> (+ on top right)>search libraries by name and install one by one.</li>
+  <li>Copy the code.py code from repository.</li>
+    <li>Download the test images and add to your pycharm project path.</li>
+    <li>Run the code.</li>
+</ul>
+</p>
+
 <h1>library used</h1>
 <p title=Library used->
 <ul>
