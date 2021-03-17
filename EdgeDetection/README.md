@@ -29,38 +29,7 @@ Implementation of the following Edge Detection methods:
 </p>
 <a href="https://docs.opencv.org/master/da/d22/tutorial_py_canny.html">For more details about Canny</a>
 
-  <h1>Robert Edge Detection </h1>
-<p title=Robert Edge Detection >
-<h3>Library used</h3>
-<p title=Library used->
-<ul>
-<li>numpy </li>
-<li>opencv</li>
-<li>matplotlib</li>
-</ul>
-</p>
-
-  <h1>Prewitt Edge Detection </h1>
-<p title=Prewitt Edge Detection >
-<h3>Library used</h3>
-<p title=Library used->
-<ul>
-<li>numpy </li>
-<li>opencv</li>
-<li>matplotlib</li>
-</ul>
-</p>
-
-  <h1>Sobel Edge Detection </h1>
-<p title=Sobel Edge Detection >
-<h3>Library used</h3>
-<p title=Library used->
-<ul>
-<li>numpy </li>
-<li>opencv</li>
-<li>matplotlib</li>
-</ul>
-</p>
+  
 
 </body>
 </html>
