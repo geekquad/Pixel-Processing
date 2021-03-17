@@ -27,6 +27,7 @@ Implementation of the following Edge Detection methods:
 <li>matplotlib</li>
 </ul>
 </p>
+<a href="https://docs.opencv.org/master/da/d22/tutorial_py_canny.html">For more details about Canny</a>
 
   <h1>Robert Edge Detection </h1>
 <p title=Robert Edge Detection >
