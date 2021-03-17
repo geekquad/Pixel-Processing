@@ -44,7 +44,7 @@ Recognizes the face and how much a face is similar to a test image using SVM Cla
   <li>Its extended version is used to monitor attendence.</li>
 </ul>
 </p>
-  <h1>Articles for more details bout the backend.</h1>
+  <h1>Articles for more details about the backend.</h1>
 <p title=Articles for more details about the backend. >
 <ul>
 <li>https://github.com/davisking/dlib>
