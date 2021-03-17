@@ -17,8 +17,9 @@ Implementation of the following Edge Detection methods:
 <body>
   <h2>Canny Edge Detection </h2>
 <p title=Canny Edge Detection >
-    ![p2](p2.png)
-    ![alt text](https://github.com/[raj-gupta1]/[Image-Processing-OpenCV]/blob/[README.md]/p2.jpg?raw=true)
+    ![Figure_1](Fiure_1.png)
+    <br>
+    ![alt text](https://github.com/[raj-gupta1]/[Image-Processing-OpenCV]/blob/[README.md]/Figure_1.jpg?raw=true)
   
 <h1>Library used</h1>
 <p title=Library used->
