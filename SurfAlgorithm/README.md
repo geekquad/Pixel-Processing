@@ -25,7 +25,7 @@ SURF algorithm is a patented local feature detector and descriptor used for task
 
 
 -  SURF also provides such a functionality called Upright-SURF or U-SURF.
--  For feature description, SURF uses Wavelet responses in horizontal and vertical direction (again, use of integral images makes things easier)
+-  For feature description, SURF uses Wavelet responses in horizontal and vertical direction.
 -  A neighbourhood of size 20sX20s is taken around the keypoint where s is the size. It is divided into 4x4 subregions. 
 -  For each subregion, horizontal and vertical wavelet responses are taken and a vector is formed like this, **V = (∑ dx, ∑ dy, ∑|dx|, ∑|dy|)**
 
