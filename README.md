@@ -33,7 +33,7 @@ OpenCV is a huge library. One can get lost while reading a specific feature docu
 
 ## <u> How to Contribute? Let's Get Started: </u>
 
-### Step 1. Create a Copy of this Repository
+#### <ins> Step 1. Create a Copy of this Repository </ins>
 In order to work on an open-source project, you will first need to make your own copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
 
 > **Fork :fork_and_knife: this repo. Click on the Fork button at the top right corner.**
@@ -57,7 +57,7 @@ git clone https://github.com/your_username/Image-Processing-OpenCV
 
 
 
-### Step 2: Creating a New Branch
+#### <ins> Step 2: Creating a New Branch </ins>
 It is important to branch the repository so that you are able to manage the workflow, isolate your code, and control what features make it back to the main branch of the project repository.
 
 When creating a branch, it is very important that you create your new branch off of the master branch. 
@@ -75,10 +75,10 @@ Switched to branch 'new-branch'
 ```
 
 
-### Step 3: Contribute
+#### <ins> Step 3: Contribute: </ins>
 Make relevant changes. Add new algorithms. Add Readme files. Contribute in any way you feel like :)
 
-### Step 4: Commiting and Pushing:
+#### <ins> Step 4: Commiting and Pushing: </ins>
 Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
 ``` git add filename``` or ``` git add .``` 
@@ -99,7 +99,7 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
  git push --set-upstream origin new-branch
  ```
  
-### Step 5: Create Pull Request
+#### <ins> Step 5: Create Pull Request </ins>
 At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
@@ -109,28 +109,45 @@ GitHub will alert you that you are able to merge the two branches because there 
 
 <img src="assets\create pr.PNG">
 
-### Step 6: CONGRATULATIONS :boom: :clap: :relaxed:
+#### <ins> Step 6: CONGRATULATIONS :boom: :clap: :relaxed: </ins>
 You have made your contributions. Kudos to you!!
 
 <hr> </hr>
 
+### 📂 Where to upload the files
+
+* Your files should be uploaded directly into the corresponding folder (For instance, if you wrote code for Object Tracking Implementation in Python, it goes inside the ObjectTracking folder along with a descriptive README.md )
+* **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
+
+#### For any more issues and queries, please join our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-jtdqxt2r-i9R7vvNPzveImCBBM~eahw"> Slack Channel. </a>
+Feel free to reach out to us. 
+
+``` **Rememeber, collaboration is the key to open-source** 🌟✨ ```
 
 
+## ⚙️ Contribution Guidelines 
+
+**Please go through the whole Contributing Guidelines [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/main/CONTRIBUTING.md).**
+
+* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* You can only work on issues that you have been assigned to you.
+* If you want to contribute for an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
+* If you have modified/added code work, make sure the code compiles before submitting.
+* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
+* Do not update the **[README.md](https://github.com/geekquad/Image-Processing-OpenCV/blob/main/README.md).**
 
 
+## 📖 Code Of Conduct
 
+You can find our Code of Conduct [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/master/CODE_OF_CONDUCT.md).
 
+## 📝 License  
 
-
-
-
-
-
-
+This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Please STAR :star2: this repository if you liked it and had fun :)
 
-### Maintainers! :blush:
+### 😇 Maintainers!
 
 <table>
   <tbody><tr>
@@ -138,7 +155,6 @@ You have made your contributions. Kudos to you!!
     <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img alt="" src="https://avatars.githubusercontent.com/kritikaparmar-programmer" width="100px;"><br><sub><b>Kritika Parmar</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=kritikaparmar-programmer" title="Code">💻 🖋</a></td></a></td>
   </tr>
 </tbody></table>
-
 
 
 
