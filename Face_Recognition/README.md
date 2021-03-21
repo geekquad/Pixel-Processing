@@ -10,16 +10,13 @@ This script helps you to recognize faces by a pre-trained ML model.
       cd Image-Processing-OpenCV
       cd Face_Recognition
       
-- Run data.py file to collect data for model training
-
-      python data.py
-      
+- Run Face_data.ipynb file to collect data for model training
+   
  Input title of data.
  Press `C` to Capture image and `Q` to exit window.
  
- - Run recog.py file for image recogntion
+ - Run Face_Recog.ipynb file for image recogntion
 
-       python recog.py
        
 # Screenshot 
 ![](./datasets/capture.png)
