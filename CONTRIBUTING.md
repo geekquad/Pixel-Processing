@@ -6,8 +6,8 @@ Welcome to [geekquad/Image-Processing-OpenCV](https://github.com/geekquad/AlgoBo
 
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
-* You can only work on issues that you have been assigned to you.
-* If you want to contribute for an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
+* You can only work on issues that have been assigned to you.
+* If you want to contribute to an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 
 ### Contribution
@@ -31,21 +31,21 @@ We want your work to be readable by others; therefore, we encourage you to note 
 #### Other points to remember while submitting your work:
 - **We won't be accepting just the dataset in the form of PRs.** If you are using any of the dataset in the implementation, then only we'll accept it.
 - Jupyter notebook files should be there with proper step-wise implementation.
-- Each file should be added with a dedicated README.md so that it gets easier for people to know your approach and the logic behind.
+- Each file should contain a dedicated README.md document so that it is easy for others to understand your approach and the logic behind your implementation.
 - File extension for code should be `.py`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
-- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to. Please contact us on our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-l3t67zvr-JMKbn57PpxjEi7uC2k0etg"> Slack </a> channel.
+- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to create a new directory, please contact us on our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-l3t67zvr-JMKbn57PpxjEi7uC2k0etg"> Slack </a> channel.
 - If you have modified/added code work, make sure the code compiles before submitting.
-- If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
+- If you have modified/added documentation work, ensure that your language is concise and contains no grammatical errors.
 - Do not update the README.md and CONTRIBUTING.md.
 
 ## How to Contribute ?
 
 ## GIT AND GITHUB
 
-Before continuing we want to clarify the difference between Git and Github. Git is a version control system(VCS) which is a tool to manage the history of our Source Code. GitHub is a hosting service for Git projects.
+Before proceeding, we want to clarify the difference between Git and Github. Git is a version control system(VCS) which is a tool to manage the history of our Source Code. GitHub is a hosting service for Git projects.
 
-We assume you have created an account on Github and installed Git on your System.
+We assume that you have already created an account on Github and have Git installed on your system.
 
 Now tell Git your name and E-mail (used on Github) address.
 
@@ -57,11 +57,11 @@ This is an important step to mark your commits to your name and email.
 
 ### FORK A PROJECT -
 
-You can use github explore - https://github.com/explore to find a project that interests you and match your skills. Once you find your cool project to workon, you can make a copy of project to your account. This process is called forking a project to your Github account. On Upper right side of project page on Github, you can see -
+You can use github explore - https://github.com/explore to find a project that interests you and match your skills. Once you find a cool project to work on, you can make a copy of project to your account. This process is called forking a project to your Github account. On Upper right side of project page on Github, you can see -
 
 <p align="center">  <img  src="https://i.imgur.com/P0n6f97.png">  </p>
 
-Click on fork to create a copy of project to your account. This creates a separate copy for you to workon.
+Click on fork to create a copy of project to your account. This creates a separate copy for you to work on.
 
 ### FINDING A FEATURE OR BUG TO WORKON - 
 
@@ -113,12 +113,12 @@ The first command adds all the files or you can add specific files by removing -
 
 ### REBASE YOUR FEATURE BRANCH WITH UPSTREAM-
 
-It can happen that your feature takes time to complete and other contributors are constantly pushing code. After completing the feature your feature branch should be rebase on latest changes to upstream master branch.
+It can happen that your feature takes time to complete and other contributors are constantly pushing code. After completing the feature, your feature branch should be rebase on latest changes to upstream master branch.
 
     $ git checkout <feature-branch>
     $ git pull --rebase upstream master
 
-Now you get the latest commits from other contributors and check that your commits are compatible with the new commits. If there are any conflicts solve them.
+Now you get the latest commits from other contributors and check that your commits are compatible with the new commits. If there are any conflicts, solve them.
 
 ### SQUASHING YOUR COMMITS-
 
@@ -133,11 +133,11 @@ Till this point you have a new branch with the feature or bugfix you want in the
 
 ```$ git push origin <feature-branch>```
     
-Now you are ready to help the project by opening a pull request means you now tell the project managers to add the feature or bugfix to original repository. You can open a pull request by clicking on green icon -
+Now you are ready to help the project by opening a pull request, which means that you can now tell the project managers to add the feature or bugfix to the original repository. You can open a pull request by clicking on the green icon -
 
 <p align="center">  <img  src="https://i.imgur.com/aGaqAD5.png">  </p>
 
-Remember your upstream base branch should be master and source should be your feature branch. Click on create pull request and add a name to your pull request. You can also describe your feature.
+Remember, your upstream base branch should be master and source should be your feature branch. Click on create pull request and add a name to your pull request. You can also describe your feature.
 
 Awesome! You have made your first contribution. If you have any doubts please let me know in the comments.
 
