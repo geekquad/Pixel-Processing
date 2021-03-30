@@ -9,4 +9,4 @@ python edge_detector.py --input input.jpg --prototxt deploy.prototxt --caffemode
 
 ### Result
 
-<img src="https://github.com/KKhushhalR2405/Image-Processing-OpenCV/blob/hed/EdgeDetection/Holistically-Nested%20Edge%20Detection/out.jpg" width="300" height="250">
+<img src="https://github.com/KKhushhalR2405/Image-Processing-OpenCV/blob/hed/EdgeDetection/Holistically-Nested%20Edge%20Detection/out.jpg" width="500" height="400">
