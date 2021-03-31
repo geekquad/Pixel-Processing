@@ -157,6 +157,15 @@ This project follows the [MIT License](https://choosealicense.com/licenses/mit/)
 </tbody></table>
 
 
+## Community
+
+
+As always, thanks to our amazing contributors!
+<a href="https://github.com/geekquad/Image-Processing-OpenCV/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=geekquad/Image-Processing-OpenCV" />
+</a>
+
+
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
