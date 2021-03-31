@@ -32,3 +32,7 @@ h is the height.
 8) loop over the frames and update it until false is returned by the compiler.
 
 9) Now release video stream and destroy all windows.
+
+#### The frame will look like this after drawing bounding boxes.
+
+<img src="MultipleObject.png" width="350" height="250" />
