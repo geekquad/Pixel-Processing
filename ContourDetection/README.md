@@ -54,7 +54,7 @@ The method, _drawContours()_ requires the following parameters
 </p>
 <br/>
 
-**Step 2.** Simple Thresholding is applied to the image. Applying Thresholding methods would give us a binary image, using which we could expecct a better accuracy in detecting contours. The image after applying simple thresholding would look like this;
+**Step 2.** Simple Thresholding is applied to the image. Applying Thresholding methods would give us a binary image, using which we could expect a better accuracy in detecting contours. The image after applying simple thresholding would look like this;
 <p align="center">
           <img src="images/Binary_Image.png" width="50%">
 </p>
