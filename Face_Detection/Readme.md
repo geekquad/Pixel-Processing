@@ -17,8 +17,7 @@ In this project we will figure out how to perform Facial recognition with high p
 
 
 **_1. Importing the required Libraries._**
-First we will import the relevant Libraries. We have to import all the necessary libraries into the code. “cv2” is for OpenCV, “face_recognition” is for recognition related operations, 
-and “numpy” is for the numerical purposes.
+First we will import the relevant Libraries. We have to import all the necessary libraries into the code. “cv2” is for OpenCV, “face_recognition” is for recognition related operations and “numpy” is for the numerical purposes.
 
 
 **_2. Loading Images._**
