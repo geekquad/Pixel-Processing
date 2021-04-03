@@ -1,0 +1,15 @@
+certifi==2020.12.5
+entrypoints==0.3
+jedi==0.17.0
+MarkupSafe==1.1.1
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+opencv-contrib-python==4.5.1.48
+pywin32==227
+pywinpty==0.5.7
+pyzmq==20.0.0
+terminado==0.9.3
+webencodings==0.5.1
+wincertstore==0.2
