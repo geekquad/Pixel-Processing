@@ -15,18 +15,4 @@ Please refer to the picture below for the different facial landmarks that can be
 
 Once the landmarks are identified, I am using OpenCV to load the filter props, resize them based on the size of face and then, superimpose them over the live-streaming frame for filter like effect.
 
-Filter to be applied is selected using commandline arguments.
-
-## How to run the code
-
-To run the code, please follow the steps given below:
-
-- Install the required libraries using
-```pip install -r requirements.txt```
-- Run the script with appropiate commandline arguments. 
-  - For funny eyes filter,
-  	```python apply_filters.py --funnyeye=True```
-  - For moustache filter,
-  	```python apply_filters.py --moustache=True```
-  - For santa claus filter,
-  	```python apply_filters.py --santaclaus=True```
+Filter to be applied is selected using function argument.
