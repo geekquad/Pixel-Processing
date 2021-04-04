@@ -1,7 +1,7 @@
 # FAST Algorithm for Corner Detection
 
 There are several feature-detetcting algorithms, which work really well. But when looking from a real-time application point of view, they are not fast enough.
-As a solution to this, FAST (Features from Accelerated Segment Test) algorithm was proposed by *Edward Rosten and Tom Drummond* in the year 2006 in their paper ìMachine learning for high-speed corner detectionî .
+As a solution to this, FAST (Features from Accelerated Segment Test) algorithm was proposed by *Edward Rosten and Tom Drummond* in the year 2006 in their paper ‚ÄúMachine learning for high-speed corner detection‚Äù .
 
 ## Feature Detection using FAST
 
@@ -18,7 +18,10 @@ It is dependant on a threshold.
 
 It is called in the same way as any other feature detector in OpenCV. One can specify the threshold, whether non-maximum suppression to be applied or not, the neighborhood to be used or not, etc.
 
-For the neighborhood, three flags are defined, cv2.FAST_FEATURE_DETECTOR_TYPE_5_8, cv2.FAST_FEATURE_DETECTOR_TYPE_7_12 and cv2.FAST_FEATURE_DETECTOR_TYPE_9_16
+For the neighborhood, three flags are defined,<br/>
+cv2.FAST_FEATURE_DETECTOR_TYPE_5_8<br/>
+cv2.FAST_FEATURE_DETECTOR_TYPE_7_12<br/>
+cv2.FAST_FEATURE_DETECTOR_TYPE_9_16<br/>
 
 **References:**
 
