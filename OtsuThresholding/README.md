@@ -3,6 +3,7 @@
 
 
 Thresholding is the binarization of an image. We convert a grayscale image to a binary image, where the pixels are either 0 or 255.
+
 ---
 
 
