@@ -16,20 +16,23 @@ Given a pixel p in an array fast compares the brightness of p to surrounding 16 
 
 ![FAST](https://miro.medium.com/max/554/0*CZ2Ub21iuBOgpMDb.jpg)
 
-However, FAST features do not have an orientation component and multiscale features. So it uses a multiscale image pyramid. Once orb has created a pyramid it uses the fast algorithm to detect keypoints in the image. By detecting keypoints at each level orb is effectively locating key points at a different scale. In this way, ORB is partial scale invariant.
+However, FAST features do not have an orientation component and multiscale features. So it uses a multiscale image pyramid to produce multiscale-features. Once orb has created a pyramid it uses the fast algorithm to detect keypoints in the image. By detecting keypoints at each level orb is effectively locating key points at a different scale. In this way, ORB is partial scale invariant.
 
 ![FAST_ORIENTATION](https://miro.medium.com/max/375/0*wGPpgnPImtwLb8NX.png)
+
+But FAST doesn’t compute the orientation and descriptors for the features, so this is where BRIEF comes in the role.
 
 ## How Brief(Binary robust independent elementary feature) is used in ORB:
 -----------------
 
 Brief takes all keypoints found by the fast algorithm and converts it into a binary feature vector so that together they can represent an object.
 
-Brief starts by smoothing image using a Gaussian kernel in order to prevent the descriptor from being sensitive to high-frequency noise.
+It starts by smoothing image using a Gaussian kernel in order to prevent the descriptor from being sensitive to high-frequency noise.
 
 ![BRIEF](https://miro.medium.com/max/875/1*8v4ZvgwE0DYiCzQDRvno1A.png)
 
 The matching performance of BRIEF falls off sharply for in-plane rotation of more than a few degrees. ORB proposes a method to steer BRIEF according to the orientation of the keypoints.
+Using the orientation of the patch, its rotation matrix is found and rotates the BRIEF to get the rotated version.
 
 rBRIEF shows significant improvement in the variance and correlation over steered BRIEF.
 
@@ -37,6 +40,13 @@ ORB specifies the rBRIEF algorithm as follows:
 1) Run each test against all training patches.
 2) Order the tests by their distance from a mean of 0.5, forming the vector T.
 3) Greedy search
+
+## Advantages of ORB
+-------------
+* ORB is an efficient alternative to SIFT or SURF algorithms used for feature extraction.
+* Computing cost in case of ORB is less as compared to SIFT or SURF.
+* Matching performamce of ORB is higher than other such algorithms.
+* SIFT and SURF are patented and you are supposed to pay them for its use, whereas ORB is not patented.
 
 ## ORB in OpenCV
 ---------------
