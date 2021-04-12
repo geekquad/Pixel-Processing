@@ -25,11 +25,18 @@ However, FAST features do not have an orientation component and multiscale featu
 
 Brief takes all keypoints found by the fast algorithm and converts it into a binary feature vector so that together they can represent an object.
 
+Brief starts by smoothing image using a Gaussian kernel in order to prevent the descriptor from being sensitive to high-frequency noise.
+
 ![BRIEF](https://miro.medium.com/max/875/1*8v4ZvgwE0DYiCzQDRvno1A.png)
 
 The matching performance of BRIEF falls off sharply for in-plane rotation of more than a few degrees. ORB proposes a method to steer BRIEF according to the orientation of the keypoints.
 
 rBRIEF shows significant improvement in the variance and correlation over steered BRIEF.
+
+ORB specifies the rBRIEF algorithm as follows:
+1) Run each test against all training patches.
+2) Order the tests by their distance from a mean of 0.5, forming the vector T.
+3) Greedy search
 
 ## ORB in OpenCV
 ---------------
@@ -37,10 +44,10 @@ In OpenCv, we have to create an ORB object with the function, cv2.ORB() or using
 
 * nFeatures denotes maximum number of features to be retained (by default 500)
 * scoreType denotes whether Harris score or FAST score to rank the features (by default, Harris score) etc.
-* WTA_K decides number of points that produce each element of the oriented BRIEF descriptor.
-By default it is two, ie selects two points at a time.
-In that case, for matching, NORM_HAMMING distance is used.
-If WTA_K is 3 or 4, which takes 3 or 4 points to produce BRIEF descriptor, then matching distance is defined by NORM_HAMMING2.
+* WTA_K decides number of points that produce each element of the oriented BRIEF descriptor.<br>
+By default it is two, ie selects two points at a time.<br>
+In that case, for matching, NORM_HAMMING distance is used.<br>
+If WTA_K is 3 or 4, which takes 3 or 4 points to produce BRIEF descriptor, then matching distance is defined by NORM_HAMMING2.<br>
 
 **References:**
 
