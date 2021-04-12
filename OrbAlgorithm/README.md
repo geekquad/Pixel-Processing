@@ -5,7 +5,7 @@ This algorithm was brought up by Ethan Rublee, Vincent Rabaud, Kurt Konolige and
 ORB is basically a fusion of FAST keypoint detector and BRIEF descriptor with many modifications to enhance the performance.
 
 * First it uses FAST to find keypoints,
-* Then it applies Harris corner measure to find top N points among them.
+* Then it applies Harris corner measure to find top N points among them.<p>
 It also use pyramid to produce multiscale-features.
 
 
