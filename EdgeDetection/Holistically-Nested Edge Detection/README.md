@@ -14,8 +14,8 @@ This network accepts an RGB image as an input and then produces an edge map as a
 
 The HED model requires 2 files, namely :
 
-* ** deploy.prototxt ** which is a python dict-like wrapper class to process google protobuf objects. adequately describe the network architecture.
-* ** hed_pretrained_bsds.caffemodel ** which simply define the internal states of the parameters/gradients of the layers.
+* **deploy.prototxt** which is a python dict-like wrapper class to process google protobuf objects. adequately describe the network architecture.
+* **hed_pretrained_bsds.caffemodel** which simply define the internal states of the parameters/gradients of the layers.
 
 
 ### Result
