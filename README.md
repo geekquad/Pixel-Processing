@@ -29,7 +29,7 @@ OpenCV-Python is the Python API of OpenCV. It combines the best qualities of Ope
 
 ## Overview:
 
-OpenCV is a huge library. One can get lost while reading specific feature documentation and its implementation. So the repository aims to have a minimal implementation of all OpenCV features together, under one roof. 
+OpenCV is a huge library. One can get lost while reading specific feature documentation and its implementation. So, the repository aims to have a minimal implementation of all OpenCV features together, under one roof. 
 
 ## <u> How to Contribute? Let's Get Started: </u>
 
