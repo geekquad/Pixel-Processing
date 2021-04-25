@@ -29,7 +29,7 @@ OpenCV-Python is the Python API of OpenCV. It combines the best qualities of Ope
 
 ## Overview:
 
-OpenCV is a huge library. One can get lost while reading specific feature documentation and its implementation. So the repository aims to have a minimal implementation of all OpenCV features together, under one roof. 
+OpenCV is a huge library. One can get lost while reading specific feature documentation and its implementation. So, the repository aims to have a minimal implementation of all OpenCV features together, under one roof. 
 
 ## <u> How to Contribute? Let's Get Started: </u>
 
@@ -127,14 +127,14 @@ Feel free to reach out to us.
 
 ## ⚙️ Contribution Guidelines 
 
-**Please go through the whole Contributing Guidelines [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/main/CONTRIBUTING.md).**
+**Please go through the whole Contributing Guidelines [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/master/CONTRIBUTING.md).**
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
 * If you want to contribute to an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
-* Do not update the **[README.md](https://github.com/geekquad/Image-Processing-OpenCV/blob/main/README.md).**
+* Do not update the **[README.md](https://github.com/geekquad/Image-Processing-OpenCV/blob/master/README.md).**
 
 
 ## 📖 Code Of Conduct
