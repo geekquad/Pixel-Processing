@@ -8,6 +8,7 @@ It is a widely used effect in graphics software, typically to reduce image noise
 ![Bokeh effect created by Gaussian Filter](https://images.unsplash.com/photo-1485288734756-0b31a0a31d95?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8Ymx1cnJlZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80)
 >Bokeh effect created by Gaussian Filter
 
+
 The mathematics behind Gaussian Filter is convolving the image with the **Gaussian Function** which also expresses the _normal distribution_ in statistics. This function is used for calculating the transformation which is applied on each pixel of the image by convolving the image with a kernel of a particular size and sigma.
 
 The one-dimensional function is expressed as 
@@ -25,6 +26,7 @@ where x is the distance from the origin in the horizontal axis, y is the distanc
 ![](https://www.researchgate.net/profile/Kazumi-Suematsu/publication/342883563/figure/fig5/AS:912626649399296@1594598557124/One-dimensional-end-to-end-distance-distributions-averaged-out-for-the-octamer-N-8-g.png)
 >One-dimensional graph 
 
+
 ![](https://www.mathworks.com/help/examples/stats/win64/ComputeTheMultivariateNormalPdfExample_01.png)
 >Two-dimensional graph
 
@@ -37,14 +39,9 @@ Here I have used **OpenCv** which is defined by Kernel-Size whereas in **skimage
 ![](https://i.stack.imgur.com/CQiM7.png)
 > Kernel with small sigma and large sigma respectively
 
+
 Here I have used three ways for Gaussian-Filtering an image:
 
 * cv2.GaussianBlur (the pre-defined function for blurring)
 * cv2.getGaussianKernel (defining the kernel according to our need)
 * Creating a Gaussian Function of our own
-
-
-
-
-
-
