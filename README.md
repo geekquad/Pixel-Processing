@@ -17,11 +17,11 @@
 </p>
 
 
-This repository is focussed on having various feature implementation of OpenCV in Python.
-
+This repository is focused on having various feature implementations of OpenCV in Python.
+ 
 ## About OpenCV:
-
-OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
+ 
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
 
 ```
 OpenCV-Python is the Python API of OpenCV. It combines the best qualities of OpenCV C++ API and Python language.
@@ -29,23 +29,23 @@ OpenCV-Python is the Python API of OpenCV. It combines the best qualities of Ope
 
 ## Overview:
 
-OpenCV is a huge library. One can get lost while reading a specific feature documentation and its implementation. So the aim of the repository is to have a minimal implementation of all OpenCV features together, under one roof. 
+OpenCV is a huge library. One can get lost while reading specific feature documentation and its implementation. So, the repository aims to have a minimal implementation of all OpenCV features together, under one roof. 
 
 ## <u> How to Contribute? Let's Get Started: </u>
 
 #### <ins> Step 1. Create a Copy of this Repository </ins>
-In order to work on an open-source project, you will first need to make your own copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
+To work on an open-source project, you will first need to make your copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
 
 > **Fork :fork_and_knife: this repo. Click on the Fork button at the top right corner.**
 
-With the repository forked, you’re ready to clone it so that you have a local working copy of the code base.
-
+With the repository forked, you’re ready to clone it so that you have a local working copy of the codebase.
+ 
 > **Clone the Repository**
-
-To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
-
+ 
+To make your local copy of the repository you would like to contribute to, let’s first open up a terminal window.
+ 
 We’ll use the git clone command along with the URL that points to your fork of the repository.
-
+ 
 * Open the Command Prompt
 * Type this command:
 
@@ -58,9 +58,9 @@ git clone https://github.com/your_username/Image-Processing-OpenCV
 
 
 #### <ins> Step 2: Creating a New Branch </ins>
-It is important to branch the repository so that you are able to manage the workflow, isolate your code, and control what features make it back to the main branch of the project repository.
-
-When creating a branch, it is very important that you create your new branch off of the master branch. 
+It is important to branch the repository so that you can manage the workflow, isolate your code, and control what features make it back to the main branch of the project repository.
+ 
+When creating a branch, you must create your new branch off of the master branch. 
 **To create a new branch, from your terminal window, follow:**
 
 
@@ -101,11 +101,11 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
  
 #### <ins> Step 5: Create Pull Request </ins>
 At this point, you are ready to make a pull request to the original repository.
-
+ 
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
 <img src="assets\PR.PNG">
-
-GitHub will alert you that you are able to merge the two branches because there is no competing code. You should add in a **title**, a **comment**, and then press the **“Create pull request”** button.
+ 
+GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a **title**, a **comment**, and then press the **“Create pull request”** button.
 
 <img src="assets\create pr.PNG">
 
@@ -127,14 +127,14 @@ Feel free to reach out to us.
 
 ## ⚙️ Contribution Guidelines 
 
-**Please go through the whole Contributing Guidelines [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/main/CONTRIBUTING.md).**
+**Please go through the whole Contributing Guidelines [here](https://github.com/geekquad/Image-Processing-OpenCV/blob/master/CONTRIBUTING.md).**
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
-* You can only work on issues that you have been assigned to you.
-* If you want to contribute for an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
+* You can only work on issues that have been assigned to you.
+* If you want to contribute to an existing algorithm, we prefer that you create an issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
-* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
-* Do not update the **[README.md](https://github.com/geekquad/Image-Processing-OpenCV/blob/main/README.md).**
+* Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
+* Do not update the **[README.md](https://github.com/geekquad/Image-Processing-OpenCV/blob/master/README.md).**
 
 
 ## 📖 Code Of Conduct
@@ -155,6 +155,15 @@ This project follows the [MIT License](https://choosealicense.com/licenses/mit/)
     <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img alt="" src="https://avatars.githubusercontent.com/kritikaparmar-programmer" width="100px;"><br><sub><b>Kritika Parmar</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=kritikaparmar-programmer" title="Code">💻 🖋</a></td></a></td>
   </tr>
 </tbody></table>
+
+
+## Community
+
+
+As always, thanks to our amazing contributors!
+<a href="https://github.com/geekquad/Image-Processing-OpenCV/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=geekquad/Image-Processing-OpenCV" />
+</a>
 
 
 
