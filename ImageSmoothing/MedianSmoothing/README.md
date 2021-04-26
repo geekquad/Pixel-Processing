@@ -9,11 +9,8 @@ Let's explain this with the use of an example.
 Take a 3X3 matrix of pixel values:
 
 > [ 22, 24, 27]
-
 >[ 31, 98, 29]
-
 >[ 27, 22, 23]
-
 <br/>
 Notice the center pixel: the clear outlier in this matrix. Outliers like this can produce what is called salt-and-pepper noise, which produces an image that looks some what like this
 <br/>
@@ -35,7 +32,6 @@ The filtering algorithm will scan the entire image, using a small matrix (like t
 ![](https://miro.medium.com/max/3000/1*H-Rc2oZLOQdZkUselTPiig.png)
 
 > Left: Median Filtering, Right: Gaussian Filtering
-
 <br/>
 <br/>
 
@@ -64,7 +60,6 @@ The filtering algorithm will scan the entire image, using a small matrix (like t
 <br/>
 
 <img src="images/img_1.jpg">
-
 
 
 
