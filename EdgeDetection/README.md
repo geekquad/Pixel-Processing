@@ -12,3 +12,5 @@ Implementation of the following Edge Detection methods:
     calculated using differentiation. So that’s why these operators are also called as derivative operators or 
     derivative masks.
 * Sobel Edge Detection
+* Holistically-Nested Edge Detection
+
