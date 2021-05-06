@@ -40,7 +40,7 @@ Face Tracking is a <b>Computer Vision</b> technology that detects and locates th
 ![GIF](https://media.giphy.com/media/UuQNG8anZ5XRCQMgTA/giphy.gif)
 
 ### Camshift Algorithm working:
-![GIF](https://media.giphy.com/media/FmC6S9475vIqkbeOg7/giphy.gif)
+![GIF](https://media.giphy.com/media/KXOJFQTRtO4sERSTxO/giphy.gif)
 
 
 </br>
