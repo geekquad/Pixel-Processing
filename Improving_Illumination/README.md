@@ -11,7 +11,9 @@ This is where the dual channel prior based solution comes in. An image prior is 
 ## Results
 
 Input image
+
 ![test3](https://user-images.githubusercontent.com/58569950/117584923-4f7a6c80-b12d-11eb-92c2-463d3b57fcec.jpg)
 
 Output image
+
 ![out3](https://user-images.githubusercontent.com/58569950/117584930-54d7b700-b12d-11eb-8a0e-1e09ec4527ca.jpg)
