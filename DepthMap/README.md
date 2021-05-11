@@ -4,7 +4,7 @@ A depth map is a picture where every pixel has depth information and it normally
 
 ---
 
-### stereo images
+### Stereo images
 
 Left and Right images.
 
