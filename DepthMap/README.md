@@ -6,6 +6,7 @@ A depth map is a picture where every pixel has depth information and it normally
 
 ### stereo images
 
-<img src="left.jpg" width="50%" />    <img src="right.jpg" width="50%" />
-Left image                               right image
+<img src="left.jpg" width="50%" />   left image 
+<img src="right.jpg" width="50%" />  right image
+                              
 
