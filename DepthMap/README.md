@@ -6,5 +6,5 @@ A depth map is a picture where every pixel has depth information and it normally
 
 ### stereo images
 
-![](left.jpg, width = 20%)
+![]((left.jpg) width = 20%)
 
