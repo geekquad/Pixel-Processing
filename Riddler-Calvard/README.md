@@ -4,5 +4,5 @@ Thresholding is binarization of image. To convert grayscale image to binary imag
 
 ---
 
-<img src = "" width = "50%" />
-<img src = "" width = " 50%" />
+<img src = "ppp" width = "50%" />
+<img src = "new.png" width = " 50%" />
