@@ -28,6 +28,14 @@ _Step 5 :_ Based on the extracted features/dimensions of the cars, we will loop 
 
 _Step 6 :_ Display the result.
 
+Although haarcascade classifier is pretty helpful, there are few drawbacks of this approach.
+
+1. The most challenging part of this is accurately specifying the parameter value of scaleFactor and minNeighbors of the detectMultiScale function. It is pretty common to run into scenarios where we need to tune both the parameters on a image-by-image basis which is a big turn off when it comes to an image detection use-case.
+
+2. The scaleFactor is basically used to control the image pyramid which in turn is used to detect the object at various scales of an image. If the scaleFactor is too large then chances are that the image detection will not be accurate and we will be missing objects at scales that fall in between the pyramid layers.
+
+3. However, if we decrease the value of scaleFactor then you will get many layers of pyramids on the same image scale which makes detection slower and increases false-positives.
+
 
 
 
