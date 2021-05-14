@@ -25,7 +25,7 @@ Python's opencv provides a method to implement Lucas-Kanade algorithm for our co
 ```
 
 ## Output of Lucas-Kanade Algorithm
-![gif](https://media.giphy.com/media/IuisYtbi66crmPaN9l/giphy.gif)
+![gif](https://media.giphy.com/media/IuisYtbi66crmPaN9l/giphy-downsized.gif)
 
 <br/><br/>
 # Dense optical flow method:
