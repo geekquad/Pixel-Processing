@@ -1,4 +1,4 @@
-# **Gray level slicing without background
+# **Gray level slicing without background**
 
 ---
 
