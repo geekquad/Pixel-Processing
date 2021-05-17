@@ -1,4 +1,4 @@
-## **Drawing Geometerical shapes using OpenCV
+## **Drawing Geometerical shapes using OpenCV**
 
 ---
 
