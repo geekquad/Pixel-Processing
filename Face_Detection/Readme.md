@@ -1,1 +1,0 @@
-Detects faces using OpenCV.
