@@ -13,4 +13,5 @@ Implementation of the following Edge Detection methods:
     derivative masks.
 * Sobel Edge Detection
 * Holistically-Nested Edge Detection
+* Laplacian Edge Detection
 
