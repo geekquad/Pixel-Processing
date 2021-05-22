@@ -35,7 +35,7 @@
 #
 
 ## Bitwise XOR Operation:
-- Here pixel value is set to True is set to True if and only if one of the two pixels is greater than zero, but not both.
+- Here pixel value is set to True if and only if one of the two pixels is greater than zero, but not both.
 - We implement this in openCV using
 ```
     cv2.bitwise_xor()
@@ -61,3 +61,6 @@
 | Shape | Result |
 |---------|---------|
 |![Image](https://i.imgur.com/sH8fSj0.png)         |![Image](https://i.imgur.com/vLvSpat.png)         |
+
+## Author
+[Rohini Rao](https://github.com/RohiniRG)
