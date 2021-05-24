@@ -21,7 +21,7 @@ This repository is focused on having various feature implementations of OpenCV i
  
 ## About OpenCV:
  
-OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day by day. 
 
 ```
 OpenCV-Python is the Python API of OpenCV. It combines the best qualities of OpenCV C++ API and Python language.
@@ -71,7 +71,7 @@ git checkout new-branch
 Once you enter the git checkout command, you will receive the following output:
 
 ```
-Switched to branch 'new-branch'
+Switched to branch 'new branch
 ```
 
 
@@ -122,7 +122,7 @@ You have made your contributions. Kudos to you!!
 #### For any more issues and queries, please join our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-jtdqxt2r-i9R7vvNPzveImCBBM~eahw"> Slack Channel. </a>
 Feel free to reach out to us. 
 
-``` **Rememeber, collaboration is the key to open-source** 🌟✨ ```
+``` **Remember, collaboration is the key to open-source** 🌟✨ ```
 
 
 ## ⚙️ Contribution Guidelines 
