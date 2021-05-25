@@ -11,4 +11,8 @@
   <h2>What is Image Pixelation</h2>
   <p>Pixelation is the term used in computer graphics to describe blurry sections or fuzziness in an image due to visibility of single-colored square display elements or individual pixels. It mostly occurs with non-vector or raster-based images or with images which are resolution dependent due to the number of pixels per inch of the image being low. For a good quality image, pixelation must be avoided or minimized.</p>
   </div>
+  
+  <div>
+  <img src="original.PNG"/>
+  </div>
 
