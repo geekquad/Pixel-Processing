@@ -1,6 +1,6 @@
 # Edge Detection
 
-Implementation of the following Edge Detection methods:
+Implementation of the following Edge Detection methods:-
 
 * Canny Edge Detection
 * Robert Edge Detection
