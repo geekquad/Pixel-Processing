@@ -5,11 +5,11 @@ Used some of the python libraries to convert an image into a high contrast image
 * Matplotlib,
 * IPython.display
 * NumPy
-* PIL
+* CV2
 
 ## Steps:
 * Imported the required libraries ( Numpy, Matplotlib, PIL, IPython.display)
-* Read the input image using Image from PIL library
+* Read the input image using Image using cv2 library
 
 ### Methods applied 
 * Converted the image into an array and then flatten it making it a 1d array
