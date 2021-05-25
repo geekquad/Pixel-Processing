@@ -13,6 +13,12 @@
   </div>
   
   <div>
-  <img src="original.PNG"/>
+  <h3>Original Image</h3>
+  <img src="original.PNG" height=50,width=50/>
+  </div>
+  
+  <div>
+  <h3>Pixelated Image</h3>
+  <img src="output.PNG" height=50,width=50/>
   </div>
 
