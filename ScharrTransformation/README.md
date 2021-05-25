@@ -4,7 +4,7 @@
 
 Scharr is also used to detect the second derivatives of an image in horizontal and vertical directions. You can perform scharr operation on an image using the method scharr(). 
 
-This method accepts the following parameters −
+This method accepts the following parameters :-
 
 1. src − An object of the class Mat representing the source (input) image.
 
