@@ -36,4 +36,28 @@ Masking can be done in one of two ways:
  _Note : The best part behind the use of " __Image Masking__ " for " __Color Detection__ " is that it doesn't impacts the pixels of the background nor the hue regions which falls outside the tracked range._
 
 
+## **Sample Input**
+
+</br>
+
+<img src="images/input.jpg" />
+
+</br>
+</br>
+
+## **Sample Output**
+
+</br>
+
+<img src="images/output.jpg" />
+
+</br>
+</br>
+
+_Here the selected hue range was blue._
+
+
+
+
+
 
