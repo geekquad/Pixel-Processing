@@ -1,4 +1,4 @@
-# Affine Transformation 
+# Canny Edge Detection
 
 
 ## Introduction<br>
