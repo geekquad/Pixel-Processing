@@ -83,7 +83,7 @@ the points 1, 2 and 3 (forming a triangle in image 1) are mapped into image 2, s
 
 
 ### References <br>
-https://stackabuse.com/affine-image-transformations-in-python-with-numpy-pillow-and-opencv/<br>
-https://medium.com/mlait/affine-transformation-image-processing-in-tensorflow-part-1-df96256928a<br>
-https://docs.opencv.org/3.4/d4/d61/tutorial_warp_affine.html<br>
-https://mathworld.wolfram.com/AffineTransformation.html#:~:text=An%20affine%20transformation%20is%20any,remains%20the%20midpoint%20after%20transformation).<br>
+* https://stackabuse.com/affine-image-transformations-in-python-with-numpy-pillow-and-opencv/<br>
+* https://medium.com/mlait/affine-transformation-image-processing-in-tensorflow-part-1-df96256928a<br>
+* https://docs.opencv.org/3.4/d4/d61/tutorial_warp_affine.html<br>
+* https://mathworld.wolfram.com/AffineTransformation.html#:~:text=An%20affine%20transformation%20is%20any,remains%20the%20midpoint%20after%20transformation).<br>
