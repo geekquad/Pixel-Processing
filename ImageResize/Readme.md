@@ -16,3 +16,9 @@ This function Resize the images.
 
 Translation refers to the rectilinear shift of an object i.e. an image from one location to another.
 cv2.wrapAffine() function has been used here,to implement the translation.
+
+# Bilinear Interpolation
+
+Bi-linear interpolation means applying a linear interpolation in two directions. 
+Thus, it uses 4 nearest neighbors, takes their weighted average to produce the output.
+In this we use cv2.INTER_LINEAR interpolation method to resize the image.
