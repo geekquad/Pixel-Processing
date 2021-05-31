@@ -21,4 +21,5 @@ cv2.wrapAffine() function has been used here,to implement the translation.
 
 Bi-linear interpolation means applying a linear interpolation in two directions. 
 Thus, it uses 4 nearest neighbors, takes their weighted average to produce the output.
+
 In this we use cv2.INTER_LINEAR interpolation method to resize the image.
