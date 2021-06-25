@@ -18,9 +18,9 @@
 
 
 This repository is focused on having various feature implementations of OpenCV in Python.
- 
+
 ## About OpenCV:
- 
+
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
 
 ```
@@ -39,13 +39,13 @@ To work on an open-source project, you will first need to make your copy of the 
 > **Fork :fork_and_knife: this repo. Click on the Fork button at the top right corner.**
 
 With the repository forked, you’re ready to clone it so that you have a local working copy of the codebase.
- 
+
 > **Clone the Repository**
- 
+
 To make your local copy of the repository you would like to contribute to, let’s first open up a terminal window.
- 
+
 We’ll use the git clone command along with the URL that points to your fork of the repository.
- 
+
 * Open the Command Prompt
 * Type this command:
 
@@ -59,7 +59,7 @@ git clone https://github.com/your_username/Image-Processing-OpenCV
 
 #### <ins> Step 2: Creating a New Branch </ins>
 It is important to branch the repository so that you can manage the workflow, isolate your code, and control what features make it back to the main branch of the project repository.
- 
+
 When creating a branch, you must create your new branch off of the master branch. 
 **To create a new branch, from your terminal window, follow:**
 
@@ -88,23 +88,23 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
 
 **With our file staged, we’ll want to record the changes that we made to the repository with the ```git commit``` command.**
 <p> The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is.  </p>
- 
+
  ```
  git commit -m "commit message"
  ```
- 
- 
+
+
  At this point you can use the ```git push``` command to push the changes to the current branch of your forked repository:
  ```
  git push --set-upstream origin new-branch
  ```
- 
+
 #### <ins> Step 5: Create Pull Request </ins>
 At this point, you are ready to make a pull request to the original repository.
- 
+
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
 <img src="assets\PR.PNG">
- 
+
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a **title**, a **comment**, and then press the **“Create pull request”** button.
 
 <img src="assets\create pr.PNG">
@@ -119,7 +119,8 @@ You have made your contributions. Kudos to you!!
 * Your files should be uploaded directly into the corresponding folder (For instance, if you wrote code for Object Tracking Implementation in Python, it goes inside the ObjectTracking folder along with a descriptive README.md )
 * **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
 
-#### For any more issues and queries, please join our <a href="https://join.slack.com/t/geekquad/shared_invite/zt-jtdqxt2r-i9R7vvNPzveImCBBM~eahw"> Slack Channel. </a>
+  #### For any more issues and queries, please join our <a href="https://discord.gg/MfhVtsbJyw"> Discord Server. </a>
+
 Feel free to reach out to us. 
 
 ``` **Rememeber, collaboration is the key to open-source** 🌟✨ ```
@@ -151,16 +152,15 @@ This project follows the [MIT License](https://choosealicense.com/licenses/mit/)
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/geekquad"><img alt="" src="https://avatars.githubusercontent.com/geekquad" width="100px;"><br><sub><b>Aditya Kumar Gupta</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=geekquad" title="Code">💻 🖋</a></td> </a></td>
-    <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img alt="" src="https://avatars.githubusercontent.com/kritikaparmar-programmer" width="100px;"><br><sub><b>Kritika Parmar</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=kritikaparmar-programmer" title="Code">💻 🖋</a></td></a></td>
+    <td align="center"><a href="https://github.com/geekquad"><img alt="" src="https://avatars.githubusercontent.com/geekquad" width="100px;"><br><sub><b>Aditya Kumar Gupta</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=geekquad" title="Code">💻 🖋</a></td> 
   </tr>
 </tbody></table>
 
 
+
 ## Community
 
-
-As always, thanks to our amazing contributors!
+Thanks to our amazing contributors!
 <a href="https://github.com/geekquad/Image-Processing-OpenCV/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=geekquad/Image-Processing-OpenCV" />
 </a>
