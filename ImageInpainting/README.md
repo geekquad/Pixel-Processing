@@ -9,3 +9,15 @@ OpenCV Contrib is required for two of those methods so that can be installed usi
 pip install opencv-contrib-python==4.3.0.36
 ```
 
+# Input Image 
+
+| Input     | Input      |
+|------------|-------------|
+| <img src="Image/cat_damaged.png"> | <img src="Image/cat_mask.png"> |
+
+# Output Image
+
+| Output     |
+|------------|
+| <img src="Image/output.png"> |
+
